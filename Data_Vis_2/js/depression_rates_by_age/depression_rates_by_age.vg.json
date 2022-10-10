@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": { "text": "Depression Rates By Age" },
     "data": {
-        "url": "Depression_cases_by_age.csv"
+        "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/Deperession_cases_by_age.csv"
     },
     "mark": "bar",
     "encoding": {

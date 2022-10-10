@@ -6,15 +6,53 @@
     "data": {
         "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/4_interactive_scatter_plot/data/COVID_19_10_Oct_2020.csv"
     },
-    "transform": [{ "filter": "datum.Active > 0" }, { "filter": "datum.Deaths > 0" },
-        { "calculate": "datum.Confirmed/datum.Population * 10000", "as": "Cases per 10,000 population" }
+    "transform": [
+        { "filter": "datum.Active > 0" },
+        { "filter": "datum.Deaths > 0" },
+        { "calculate": "datum.Confirmed/datum.Population * 10000", "as": "Cases per 10,000 population" },
+        { "filter": "Continent_selection == null || datum.Continent == Continent_selection" },
+        { "filter": "datum.Population > Population_Above" }
     ],
 
     "params": [{
-        "name": "continent_highlight",
-        "select": { "type": "point", "fields": ["Continent"] },
-        "bind": "legend"
-    }],
+            "name": "Continent_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "North America",
+                    "South America",
+                    "Europe",
+                    "Africa",
+                    "Asia",
+                    "Oceania"
+                ],
+                "labels": [
+                    "Show All",
+                    "North America",
+                    "South America",
+                    "Europe",
+                    "Africa",
+                    "Asia",
+                    "Oceania"
+                ],
+                "name": "Continent Selection: "
+            }
+        },
+
+        {
+            "name": "Population_Above",
+            "value": 0,
+            "bind": {
+                "input": "range",
+                "min": 0,
+                "max": 100000000,
+                "step": 1000000,
+                "name": "Minimum Population: "
+            }
+        }
+
+    ],
     "mark": "circle",
     "encoding": {
         "x": {
@@ -39,8 +77,7 @@
             }
         },
         "opacity": {
-            "condition": { "selection": "continent_highlight", "value": 0.6 },
-            "value": 0.2
+            "value": 0.6
         },
         "size": {
             "field": "Population",

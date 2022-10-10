@@ -1,0 +1,12 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Depression Rates By Age" },
+    "data": {
+        "url": "Depression_cases_by_age.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+        "y": { "field": "Age", "type": "nominal" },
+        "x": { "field": "Depression Cases", "type": "quantitative" }
+    }
+}

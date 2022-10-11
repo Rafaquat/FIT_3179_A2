@@ -101,48 +101,50 @@
     {
         "id": 17,
         "name": "Male",
-        "parent": 3
+        "parent": 3,
+        "size": 743
     },
     {
         "id": 18,
         "name": "Female",
-        "parent": 3
+        "parent": 3,
+        "size": 743
     },
     {
         "id": 19,
         "name": "Benefits",
         "parent": 4,
-        "size": 3938
+        "size": 743
     },
     {
         "id": 20,
         "name": "Remote",
         "parent": 4,
-        "size": 3938
+        "size": 743
     },
     {
         "id": 21,
         "name": "On-site",
         "parent": 4,
-        "size": 3938
+        "size": 743
     },
     {
         "id": 22,
         "name": "Co-workers Consultation",
         "parent": 4,
-        "size": 3938
+        "size": 743
     },
     {
         "id": 23,
         "name": "Supervisor Consultation",
         "parent": 4,
-        "size": 3938
+        "size": 743
     },
     {
         "id": 24,
         "name": " Consultation",
         "parent": 4,
-        "size": 3938
+        "size": 743
     }
 
 

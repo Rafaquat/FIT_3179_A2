@@ -80,7 +80,7 @@
                     "as": "x"
                 },
                 {
-                    "calculate": "[height - scale('layer_0_y', datum.Age), height - scale('layer_1_y', datum.Children), height - scale('layer_2_y', datum.Assets), height - scale('layer_2_y', datum.Expenses), height - scale('layer_2_y', datum.Depressed)]",
+                    "calculate": "[height - scale('layer_0_y', datum.Age), height - scale('layer_1_y', datum.Children), height - scale('layer_2_y', datum.Assets), height - scale('layer_3_y', datum.Expenses), height - scale('layer_4_y', datum.Depressed)]",
                     "as": "y"
                 },
                 { "flatten": ["x", "y"] }

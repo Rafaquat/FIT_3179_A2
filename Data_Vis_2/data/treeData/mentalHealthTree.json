@@ -15,148 +15,125 @@
     {
         "id": 4,
         "name": "Employed",
-        "parent": 1,
-        "size": 3938
+        "parent": 1
     },
     {
         "id": 5,
         "name": "Self-Employed",
-        "parent": 1,
-        "size": 3812
+        "parent": 1
     },
     {
         "id": 6,
         "name": "Family History",
-        "parent": 1,
-        "size": 6714
+        "parent": 1
     },
     {
         "id": 7,
         "name": "United States",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
 
     {
         "id": 8,
         "name": "Canada",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
 
     {
         "id": 9,
         "name": "United Kingdon",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
 
     {
         "id": 10,
         "name": "Australia",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
 
     {
         "id": 11,
         "name": "Singapore",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
 
     {
         "id": 12,
         "name": "France",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
 
     {
         "id": 13,
         "name": "Germany",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
 
     {
         "id": 14,
         "name": "China",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
 
     {
         "id": 15,
         "name": "India",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
     {
         "id": 16,
         "name": "Japan",
-        "parent": 2,
-        "size": 743
+        "parent": 2
     },
     {
         "id": 17,
         "name": "Male",
-        "parent": 3,
-        "size": 743
+        "parent": 3
     },
     {
         "id": 18,
         "name": "Female",
-        "parent": 3,
-        "size": 743
+        "parent": 3
     },
     {
         "id": 19,
         "name": "Benefits",
-        "parent": 4,
-        "size": 743
+        "parent": 4
     },
     {
         "id": 20,
         "name": "Remote",
-        "parent": 4,
-        "size": 743
+        "parent": 4
     },
     {
         "id": 21,
         "name": "On-site",
-        "parent": 4,
-        "size": 743
+        "parent": 4
     },
     {
         "id": 22,
         "name": "Co-workers Consultation",
-        "parent": 4,
-        "size": 743
+        "parent": 4
     },
     {
         "id": 23,
         "name": "Supervisor Consultation",
-        "parent": 4,
-        "size": 743
+        "parent": 4
     },
     {
         "id": 24,
         "name": "Leave",
-        "parent": 4,
-        "size": 743
+        "parent": 4
     },
     {
         "id": 25,
         "name": "Yes",
-        "parent": 24,
-        "size": 720
+        "parent": 24
     },
     {
         "id": 26,
         "name": "No",
-        "parent": 24,
-        "size": 720
+        "parent": 24
     }
 
 

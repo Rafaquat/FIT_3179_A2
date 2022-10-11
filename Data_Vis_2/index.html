@@ -17,13 +17,19 @@
     <div id="bar_chart">
     </div>
 
-    <div id="edgeBundling"></div>
+    <div id="treeMap"></div>
 
 
 
     <script type="text/javascript">
         var spec2 = "js/depression_rates_by_age/depression_rates_by_age.vg.json";
         vegaEmbed('#bar_chart', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+
+        var spec3 = "js/treeMap/treeMap.vg.json";
+        vegaEmbed('#treeMap', spec3).then(function(result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
     </script>

@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A parallel coordinates plot",
-    "data": { "url": "https://vega.github.io/editor/data/cars.json" },
-    "width": 500,
+    "data": { "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/parallelCoordData/parallelCoordData.json" },
+    "width": 900,
     "height": 500,
     "layer": [{
             "mark": "rule",
@@ -10,7 +10,7 @@
                 "x": { "value": 0 },
                 "opacity": { "value": 0 },
                 "y": {
-                    "field": "Miles_per_Gallon",
+                    "field": "Age",
                     "type": "quantitative",
                     "axis": { "grid": false, "title": null }
                 },
@@ -23,13 +23,13 @@
                 "x": { "value": 0 },
                 "opacity": { "value": 0 },
                 "y": {
-                    "field": "Displacement",
+                    "field": "Children",
                     "type": "quantitative",
                     "axis": {
                         "grid": false,
                         "title": null,
                         "orient": "right",
-                        "offset": { "expr": "-width / 2" }
+                        "offset": 0
                     }
                 },
                 "detail": { "field": "Name" }
@@ -41,19 +41,46 @@
                 "x": { "value": 0 },
                 "opacity": { "value": 0 },
                 "y": {
-                    "field": "Horsepower",
+                    "field": "Assets",
                     "type": "quantitative",
                     "axis": { "grid": false, "title": null, "orient": "right", "offset": 0 }
-                }
+                },
+                "detail": { "field": "Name" }
+            }
+        },
+        {
+            "mark": "rule",
+            "encoding": {
+                "x": { "value": 0 },
+                "opacity": { "value": 0 },
+                "y": {
+                    "field": "Expenses",
+                    "type": "quantitative",
+                    "axis": { "grid": false, "title": null, "orient": "right", "offset": 0 }
+                },
+                "detail": { "field": "Name" }
+            }
+        },
+        {
+            "mark": "rule",
+            "encoding": {
+                "x": { "value": 0 },
+                "opacity": { "value": 0 },
+                "y": {
+                    "field": "Depressed",
+                    "type": "nominal",
+                    "axis": { "grid": false, "title": null, "orient": "right", "offset": 0 }
+                },
+                "detail": { "field": "Name" }
             }
         },
         {
             "transform": [{
-                    "calculate": "['Miles_per_Gallon', 'Displacement', 'Horsepower']",
+                    "calculate": "['Age', 'Children', 'Assets', 'Expenses', 'Depressed']",
                     "as": "x"
                 },
                 {
-                    "calculate": "[height - scale('layer_0_y', datum.Miles_per_Gallon), height - scale('layer_1_y', datum.Displacement), height - scale('layer_2_y', datum.Horsepower)]",
+                    "calculate": "[height - scale('layer_0_y', datum.Age), height - scale('layer_1_y', datum.Children), height - scale('layer_2_y', datum.Assets), height - scale('layer_2_y', datum.Expenses), height - scale('layer_2_y', datum.Depressed)]",
                     "as": "y"
                 },
                 { "flatten": ["x", "y"] }
@@ -70,7 +97,7 @@
             "encoding": {
                 "opacity": {
                     "condition": { "selection": "hover", "value": 1 },
-                    "value": 0.05
+                    "value": 0.5
                 },
                 "x": {
                     "field": "x",

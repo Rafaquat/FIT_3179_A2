@@ -34,6 +34,12 @@
     },
 
     {
+        "id": 8,
+        "name": "Treatment",
+        "parent": 1
+    },
+
+    {
         "id": 9,
         "name": "United Kingdon",
         "parent": 2
@@ -52,79 +58,79 @@
     },
 
     {
-        "id": 13,
+        "id": 12,
         "name": "Germany",
         "parent": 2
     },
 
     {
-        "id": 14,
+        "id": 13,
         "name": "China",
         "parent": 2
     },
 
     {
-        "id": 15,
+        "id": 14,
         "name": "India",
         "parent": 2
     },
     {
-        "id": 16,
+        "id": 15,
         "name": "Japan",
         "parent": 2
     },
     {
-        "id": 17,
+        "id": 16,
         "name": "Male",
         "parent": 3
     },
     {
-        "id": 18,
+        "id": 17,
         "name": "Female",
         "parent": 3
     },
     {
-        "id": 19,
+        "id": 18,
         "name": "Benefits",
         "parent": 4
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "Remote",
         "parent": 4
     },
     {
-        "id": 21,
+        "id": 20,
         "name": "On-site",
         "parent": 4
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "Co-workers Consultation",
         "parent": 4
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "Supervisor Consultation",
         "parent": 4
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "Leave",
         "parent": 4
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "Yes",
         "parent": 24
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "No",
         "parent": 24
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "Yes",
         "parent": 6
     },
@@ -143,23 +149,16 @@
         "name": "Care Options",
         "parent": 19
     },
-
     {
         "id": 30,
-        "name": "Treatment",
-        "parent": 1
+        "name": "Physical Health Interview",
+        "parent": 8
     },
 
     {
         "id": 31,
-        "name": "Physical Health Interview",
-        "parent": 30
-    },
-
-    {
-        "id": 32,
         "name": "Mental Health Interview",
-        "parent": 30
+        "parent": 8
     }
 
 

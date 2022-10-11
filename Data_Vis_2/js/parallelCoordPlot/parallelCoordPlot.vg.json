@@ -12,7 +12,7 @@
                 "y": {
                     "field": "Age",
                     "type": "quantitative",
-                    "axis": { "grid": false, "title": null }
+                    "axis": { "grid": true, "title": null }
                 },
                 "detail": { "field": "Name" }
             }
@@ -26,7 +26,7 @@
                     "field": "Children",
                     "type": "quantitative",
                     "axis": {
-                        "grid": false,
+                        "grid": true,
                         "title": null,
                         "orient": "right",
                         "offset": 0
@@ -68,7 +68,7 @@
                 "opacity": { "value": 0 },
                 "y": {
                     "field": "Depressed",
-                    "type": "nominal",
+                    "type": "ordinal",
                     "axis": { "grid": false, "title": null, "orient": "right", "offset": 0 }
                 },
                 "detail": { "field": "Name" }
@@ -80,7 +80,7 @@
                     "as": "x"
                 },
                 {
-                    "calculate": "[height - scale('layer_0_y', datum.Age), height - scale('layer_1_y', datum.Children), height - scale('layer_2_y', datum.Assets), height - scale('layer_3_y', datum.Expenses), height - scale('layer_4_y', datum.Depressed)]",
+                    "calculate": "[scale('layer_0_y', datum.Age), scale('layer_1_y', datum.Children), scale('layer_2_y', datum.Assets ),  scale('layer_3_y', datum.Expenses), scale('layer_4_y', datum.Depressed)]",
                     "as": "y"
                 },
                 { "flatten": ["x", "y"] }

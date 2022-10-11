@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "description": "An example of Cartesian layouts for a node-link diagram of hierarchical data.",
-    "width": 900,
-    "height": 1000,
+    "width": 600,
+    "height": 900,
     "padding": 5,
 
     "signals": [{

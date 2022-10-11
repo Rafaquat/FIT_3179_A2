@@ -142,9 +142,21 @@
     },
     {
         "id": 24,
-        "name": " Consultation",
+        "name": "Leave",
         "parent": 4,
         "size": 743
+    },
+    {
+        "id": 25,
+        "name": "Yes",
+        "parent": 24,
+        "size": 720
+    },
+    {
+        "id": 26,
+        "name": "No",
+        "parent": 24,
+        "size": 720
     }
 
 

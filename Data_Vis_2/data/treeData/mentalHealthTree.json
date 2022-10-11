@@ -1,0 +1,136 @@
+[{
+        "id": 1,
+        "name": "Mental Health"
+    },
+    {
+        "id": 2,
+        "name": "Country",
+        "parent": 1
+    },
+    {
+        "id": 3,
+        "name": "Gender",
+        "parent": 1
+    },
+    {
+        "id": 4,
+        "name": "Employed",
+        "parent": 1,
+        "size": 3938
+    },
+    {
+        "id": 5,
+        "name": "Self-Employed",
+        "parent": 1,
+        "size": 3812
+    },
+    {
+        "id": 6,
+        "name": "Family History",
+        "parent": 1,
+        "size": 6714
+    },
+    {
+        "id": 7,
+        "name": "United States",
+        "parent": 2,
+        "size": 743
+    },
+
+    {
+        "id": 8,
+        "name": "Canada",
+        "parent": 2,
+        "size": 743
+    },
+
+    {
+        "id": 9,
+        "name": "United Kingdon",
+        "parent": 2,
+        "size": 743
+    },
+
+    {
+        "id": 10,
+        "name": "Australia",
+        "parent": 2,
+        "size": 743
+    },
+
+    {
+        "id": 11,
+        "name": "Singapore",
+        "parent": 2,
+        "size": 743
+    },
+
+    {
+        "id": 12,
+        "name": "France",
+        "parent": 2,
+        "size": 743
+    },
+
+    {
+        "id": 13,
+        "name": "Portugal",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 14,
+        "name": "Netherland",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 15,
+        "name": "Switzerland",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 16,
+        "name": "Germany",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 17,
+        "name": "Russia",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 18,
+        "name": "China",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 19,
+        "name": "Spain",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 7,
+        "name": "India",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 7,
+        "name": "Norway",
+        "parent": 2,
+        "size": 743
+    },
+    {
+        "id": 7,
+        "name": "Japan",
+        "parent": 2,
+        "size": 743
+    }
+
+]

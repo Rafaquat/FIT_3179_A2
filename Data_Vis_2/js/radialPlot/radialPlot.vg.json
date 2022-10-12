@@ -3,20 +3,28 @@
     "description": "A simple radial chart with embedded data.",
     "width": 600,
     "height": 500,
+    "padding": 5,
     "data": {
-        "values": [12, 23, 47, 6, 52, 19]
+        "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/radialChartData/Deperession_cases_by_education.csv"
     },
     "layer": [{
-        "mark": { "type": "arc", "innerRadius": 20, "stroke": "#fff" }
-    }, {
-        "mark": { "type": "text", "radiusOffset": 10 },
-        "encoding": {
-            "text": { "field": "data", "type": "quantitative" }
-        }
+        "mark": { "type": "arc", "innerRadius": 15, "stroke": "#fff" }
     }],
     "encoding": {
-        "theta": { "field": "data", "type": "quantitative", "stack": true },
-        "radius": { "field": "data", "scale": { "type": "sqrt", "zero": true, "rangeMin": 20 } },
-        "color": { "field": "data", "type": "nominal", "legend": null }
+        "theta": { "field": "Depression Cases", "type": "quantitative", "stack": true },
+        "radius": { "field": "Depression Cases", "scale": { "type": "sqrt", "zero": true, "rangeMin": 110 } },
+        "color": {
+            "field": "Education Level",
+            "type": "nominal",
+            "scale": {
+                "range": ["#FFC20a", "#0C7BDC", "#994F00", "#5D3A9B", "#E66100", "#D41159", "#FEFE62", "#D35FB7"]
+            }
+        },
+
+        "tooltip": [{
+            "type": "nominal",
+            "field": "Education Level"
+        }]
+
     }
 }

@@ -5,7 +5,7 @@
     "height": 500,
     "padding": 5,
     "data": {
-        "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/radialChartData/Deperession_cases_by_education.csv"
+        "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/radialChartData/Deperession_cases_by_education.csv"
     },
     "layer": [{
         "mark": { "type": "arc", "innerRadius": 15, "stroke": "#fff" }

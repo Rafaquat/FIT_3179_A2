@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Punchcard Visualization like on Github. The day on y-axis uses a custom order from Monday to Sunday.  The sort property supports both full day names (e.g., 'Monday') and their three letter initials (e.g., 'mon') -- both of which are case insensitive.",
+    "data": { "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/bubbleChartData/Common_Depression_Traits.csv" },
+    "mark": "circle",
+    "encoding": {
+        "y": {
+            "field": "Depression Cases",
+            "type": "quantitative"
+        },
+        "x": {
+            "field": "Causes",
+            "type": "ordinal"
+        },
+        "size": {
+            "field": "Depression Cases",
+            "type": "quantitative",
+            "aggregate": "sum"
+
+        }
+    }
+}

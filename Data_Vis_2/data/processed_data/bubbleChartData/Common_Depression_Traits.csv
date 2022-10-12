@@ -1,12 +1,12 @@
-,Depression Cases,Causes
-0,83,Regular Internet Access
-1,17,Living With Parents
-2,37,Resume Gap
-3,33,Unemployment
-4,36,Lack Of Concentration
-5,65,Anxiety
-6,34,Obsessive Thinking
-7,31,Mood Swings
-8,37,Panic Attacks
-9,23,Compulsive Behavior
-10,46,Tiredness
+,Depression Cases,Causes,X-Axis,Y-Axis
+0,83,Regular Internet Access,48,48
+1,17,Living With Parents,46,60
+2,37,Resume Gap,45,55
+3,33,Unemployment,45,48
+4,36,Lack Of Concentration,50,58
+5,65,Anxiety,54,40
+6,34,Obsessive Thinking,42,38
+7,31,Mood Swings,55,32
+8,37,Panic Attacks,55,55
+9,23,Compulsive Behavior,47,30
+10,46,Tiredness,48,36

@@ -20,7 +20,11 @@
     <div id="treeMap"></div>
 
     <div id="radialPlot">
-        wmfwmoiwemfweoim
+
+    </div>
+
+    <div id="packedBubbleChart">
+
     </div>
 
 
@@ -40,6 +44,12 @@
 
         var spec4 = "js/radialPlot/radialPlot.vg.json";
         vegaEmbed('#radialPlot', spec4).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+
+        var spec5 = "js/packedBubbleChart/packedBubbleChart.vg.json";
+        vegaEmbed('#packedBubbleChart', spec5).then(function(result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
     </script>

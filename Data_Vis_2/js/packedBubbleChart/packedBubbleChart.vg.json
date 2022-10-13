@@ -1,19 +1,15 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Punchcard Visualization like on Github. The day on y-axis uses a custom order from Monday to Sunday.  The sort property supports both full day names (e.g., 'Monday') and their three letter initials (e.g., 'mon') -- both of which are case insensitive.",
+    "title": "Common Depression Traits",
     "width": 500,
     "height": 300,
-    "data": { "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/bubbleChartData/Common_Depression_Traits.csv" },
+    "data": {
+        "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/bubbleChartData/Common_Depression_Traits.csv"
+    },
     "mark": "circle",
     "encoding": {
-        "y": {
-            "field": "Y-Axis",
-            "type": "quantitative"
-        },
-        "x": {
-            "field": "X-Axis",
-            "type": "quantitative"
-        },
+        "y": { "field": "Y-Axis", "type": "quantitative" },
+        "x": { "field": "X-Axis", "type": "quantitative" },
         "size": {
             "field": "Depression Cases",
             "type": "quantitative",
@@ -26,13 +22,25 @@
             "type": "nominal",
             "title": "Common Traits",
             "scale": {
-                "range": ["#FFC20a", "#0C7BDC", "#994F00", "#5D3A9B", "#E66100", "#D41159", "#FEFE62", "#D35FB7", "#4B0092", "#E1BE6A", "#40B0A6"]
+                "range": [
+                    "#FFC20a",
+                    "#0C7BDC",
+                    "#994F00",
+                    "#5D3A9B",
+                    "#E66100",
+                    "#D41159",
+                    "#FEFE62",
+                    "#D35FB7",
+                    "#4B0092",
+                    "#E1BE6A",
+                    "#40B0A6"
+                ]
             }
         },
+        "tooltip": [
+            { "type": "nominal", "field": "Causes", "title": "Trait" },
+            { "type": "quantitative", "field": "Depression Cases", "title": "Cases" }
 
-        "tooltip": [{
-            "type": "nominal",
-            "field": "Causes"
-        }]
+        ]
     }
 }

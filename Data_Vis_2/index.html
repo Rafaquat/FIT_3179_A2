@@ -8,32 +8,50 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    <link rel="stylesheet" href="style.css">
     <!-- <script src="js/depression_rates_by_age/depression_rates_by_age.js"></script> -->
     <title>Data Visualisation 2 </title>
 </head>
 
 <body>
     <h1>Data Visualisation 2</h1>
+    <div>
+
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+
+        <div style="display:flex">
+
+            <div style="width: 50%;">
+                <div id="radialPlot">
+
+                </div>
+            </div>
+
+            <div style="width: 50%;">
+                <div id="packedBubbleChart">
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
     <div id="bar_chart">
     </div>
 
     <div id="treeMap"></div>
 
-    <div id="radialPlot">
 
-    </div>
 
-    <div id="packedBubbleChart">
 
-    </div>
 
     <div id="isotype">
 
     </div>
 
-    <div id="map">
 
-    </div>
 
     <script type="text/javascript">
         var spec2 = "js/depression_rates_by_age/depression_rates_by_age.vg.json";

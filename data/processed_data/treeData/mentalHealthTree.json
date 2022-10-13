@@ -1,0 +1,165 @@
+[{
+        "id": 1,
+        "name": "Mental Health"
+    },
+    {
+        "id": 2,
+        "name": "Country",
+        "parent": 1
+    },
+    {
+        "id": 3,
+        "name": "Gender",
+        "parent": 1
+    },
+    {
+        "id": 4,
+        "name": "Employed",
+        "parent": 1
+    },
+    {
+        "id": 5,
+        "name": "Self-Employed",
+        "parent": 1
+    },
+    {
+        "id": 6,
+        "name": "Family History",
+        "parent": 1
+    },
+    {
+        "id": 7,
+        "name": "United States",
+        "parent": 2
+    },
+
+    {
+        "id": 8,
+        "name": "Treatment",
+        "parent": 1
+    },
+
+    {
+        "id": 9,
+        "name": "United Kingdon",
+        "parent": 2
+    },
+
+    {
+        "id": 10,
+        "name": "Australia",
+        "parent": 2
+    },
+
+    {
+        "id": 11,
+        "name": "Singapore",
+        "parent": 2
+    },
+
+    {
+        "id": 12,
+        "name": "Germany",
+        "parent": 2
+    },
+
+    {
+        "id": 13,
+        "name": "China",
+        "parent": 2
+    },
+
+    {
+        "id": 14,
+        "name": "India",
+        "parent": 2
+    },
+    {
+        "id": 15,
+        "name": "Japan",
+        "parent": 2
+    },
+    {
+        "id": 16,
+        "name": "Male",
+        "parent": 3
+    },
+    {
+        "id": 17,
+        "name": "Female",
+        "parent": 3
+    },
+    {
+        "id": 18,
+        "name": "Benefits",
+        "parent": 4
+    },
+    {
+        "id": 19,
+        "name": "Remote",
+        "parent": 4
+    },
+    {
+        "id": 20,
+        "name": "On-site",
+        "parent": 4
+    },
+    {
+        "id": 21,
+        "name": "Co-workers Consultation",
+        "parent": 4
+    },
+    {
+        "id": 22,
+        "name": "Supervisor Consultation",
+        "parent": 4
+    },
+    {
+        "id": 23,
+        "name": "Leave",
+        "parent": 4
+    },
+    {
+        "id": 24,
+        "name": "Yes",
+        "parent": 24
+    },
+    {
+        "id": 25,
+        "name": "No",
+        "parent": 24
+    },
+    {
+        "id": 26,
+        "name": "Yes",
+        "parent": 6
+    },
+    {
+        "id": 27,
+        "name": "No",
+        "parent": 6
+    },
+    {
+        "id": 28,
+        "name": "Wellness Program",
+        "parent": 19
+    },
+    {
+        "id": 29,
+        "name": "Care Options",
+        "parent": 19
+    },
+    {
+        "id": 30,
+        "name": "Physical Health Interview",
+        "parent": 8
+    },
+
+    {
+        "id": 31,
+        "name": "Mental Health Interview",
+        "parent": 8
+    }
+
+
+]

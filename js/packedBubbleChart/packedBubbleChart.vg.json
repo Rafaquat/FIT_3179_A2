@@ -1,0 +1,46 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Common Depression Traits",
+    "width": 400,
+    "height": 300,
+    "data": {
+        "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/bubbleChartData/Common_Depression_Traits.csv"
+    },
+    "mark": "circle",
+    "encoding": {
+        "y": { "field": "Y-Axis", "type": "quantitative" },
+        "x": { "field": "X-Axis", "type": "quantitative" },
+        "size": {
+            "field": "Depression Cases",
+            "type": "quantitative",
+            "aggregate": "sum",
+            "scale": { "rangeMin": "10", "rangeMax": 5500 },
+            "legend": null
+        },
+        "color": {
+            "field": "Causes",
+            "type": "nominal",
+            "title": "Common Traits",
+            "scale": {
+                "range": [
+                    "#FFC20a",
+                    "#0C7BDC",
+                    "#994F00",
+                    "#5D3A9B",
+                    "#E66100",
+                    "#D41159",
+                    "#FEFE62",
+                    "#D35FB7",
+                    "#4B0092",
+                    "#E1BE6A",
+                    "#40B0A6"
+                ]
+            }
+        },
+        "tooltip": [
+            { "type": "nominal", "field": "Causes", "title": "Trait" },
+            { "type": "quantitative", "field": "Depression Cases", "title": "Cases" }
+
+        ]
+    }
+}

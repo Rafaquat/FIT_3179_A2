@@ -2,6 +2,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -9,6 +10,7 @@
         "Gender": "Female",
         "Age": 34,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 86628.164,
         "Expenses (USD)": 99864.728
     },
@@ -16,6 +18,7 @@
         "Gender": "Male",
         "Age": 84,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -23,6 +26,7 @@
         "Gender": "Male",
         "Age": 56,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 120662.343,
         "Expenses (USD)": 184844.064
     },
@@ -30,6 +34,7 @@
         "Gender": "Male",
         "Age": 40,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -37,6 +42,7 @@
         "Gender": "Male",
         "Age": 55,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 124605.806,
         "Expenses (USD)": 117937.184
     },
@@ -44,6 +50,7 @@
         "Gender": "Male",
         "Age": 43,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 111446.005,
         "Expenses (USD)": 66439.318
     },
@@ -51,6 +58,7 @@
         "Gender": "Male",
         "Age": 51,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -58,6 +66,7 @@
         "Gender": "Male",
         "Age": 43,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 78796.649,
         "Expenses (USD)": 154147.935
     },
@@ -65,6 +74,7 @@
         "Gender": "Male",
         "Age": 20,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -72,6 +82,7 @@
         "Gender": "Male",
         "Age": 26,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -79,6 +90,7 @@
         "Gender": "Male",
         "Age": 37,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 109057.805,
         "Expenses (USD)": 162582.695
     },
@@ -86,6 +98,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 165631.487,
         "Expenses (USD)": 102142.47
     },
@@ -93,6 +106,7 @@
         "Gender": "Female",
         "Age": 48,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 52778.393,
         "Expenses (USD)": 66477.132
     },
@@ -100,6 +114,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 80068.594,
         "Expenses (USD)": 42204.06
     },
@@ -107,6 +122,7 @@
         "Gender": "Female",
         "Age": 19,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -114,6 +130,7 @@
         "Gender": "Female",
         "Age": 37,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -121,6 +138,7 @@
         "Gender": "Male",
         "Age": 21,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -128,6 +146,7 @@
         "Gender": "Male",
         "Age": 30,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 58459.726,
         "Expenses (USD)": 180511.016
     },
@@ -135,6 +154,7 @@
         "Gender": "Male",
         "Age": 48,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 138474.869,
         "Expenses (USD)": 62059.557
     },
@@ -142,6 +162,7 @@
         "Gender": "Female",
         "Age": 28,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 106503.239,
         "Expenses (USD)": 73790.818
     },
@@ -149,6 +170,7 @@
         "Gender": "Female",
         "Age": 25,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 64403.785,
         "Expenses (USD)": 64679.321
     },
@@ -156,6 +178,7 @@
         "Gender": "Male",
         "Age": 43,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -163,6 +186,7 @@
         "Gender": "Male",
         "Age": 35,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 127217.009,
         "Expenses (USD)": 112961.739
     },
@@ -170,6 +194,7 @@
         "Gender": "Female",
         "Age": 43,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -177,6 +202,7 @@
         "Gender": "Male",
         "Age": 32,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 148226.708,
         "Expenses (USD)": 42318.501
     },
@@ -184,6 +210,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 38382.238,
         "Expenses (USD)": 121245.246
     },
@@ -191,6 +218,7 @@
         "Gender": "Female",
         "Age": 42,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 51660.502,
         "Expenses (USD)": 91554.531
     },
@@ -198,6 +226,7 @@
         "Gender": "Male",
         "Age": 48,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 109717.747,
         "Expenses (USD)": 186932.729
     },
@@ -205,6 +234,7 @@
         "Gender": "Male",
         "Age": 28,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 86987.222,
         "Expenses (USD)": 84828.077
     },
@@ -212,6 +242,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 119901.499,
         "Expenses (USD)": 146152.71
     },
@@ -219,6 +250,7 @@
         "Gender": "Male",
         "Age": 37,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 170674.679,
         "Expenses (USD)": 123393.089
     },
@@ -226,6 +258,7 @@
         "Gender": "Male",
         "Age": 43,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -233,6 +266,7 @@
         "Gender": "Male",
         "Age": 48,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 158856.985,
         "Expenses (USD)": 91269.811
     },
@@ -240,6 +274,7 @@
         "Gender": "Male",
         "Age": 26,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -247,6 +282,7 @@
         "Gender": "Male",
         "Age": 29,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 66932.827,
         "Expenses (USD)": 142688.048
     },
@@ -254,6 +290,7 @@
         "Gender": "Male",
         "Age": 74,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -261,6 +298,7 @@
         "Gender": "Male",
         "Age": 34,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 128578.655,
         "Expenses (USD)": 114420.924
     },
@@ -268,6 +306,7 @@
         "Gender": "Male",
         "Age": 48,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 116816.64,
         "Expenses (USD)": 129724.502
     },
@@ -275,6 +314,7 @@
         "Gender": "Male",
         "Age": 26,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 52339.759,
         "Expenses (USD)": 65711.949
     },
@@ -282,6 +322,7 @@
         "Gender": "Male",
         "Age": 35,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 171658.523,
         "Expenses (USD)": 50480.448
     },
@@ -289,6 +330,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -296,6 +338,7 @@
         "Gender": "Female",
         "Age": 51,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -303,6 +346,7 @@
         "Gender": "Male",
         "Age": 26,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 101132.667,
         "Expenses (USD)": 60620.847
     },
@@ -310,6 +354,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -317,6 +362,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -324,6 +370,7 @@
         "Gender": "Male",
         "Age": 56,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 53353.179,
         "Expenses (USD)": 126900.454
     },
@@ -331,6 +378,7 @@
         "Gender": "Male",
         "Age": 37,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 101683.684,
         "Expenses (USD)": 133416.933
     },
@@ -338,6 +386,7 @@
         "Gender": "Female",
         "Age": 43,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 94771.568,
         "Expenses (USD)": 100198.389
     },
@@ -345,6 +394,7 @@
         "Gender": "Male",
         "Age": 70,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 73296.11,
         "Expenses (USD)": 107970.285
     },
@@ -352,6 +402,7 @@
         "Gender": "Male",
         "Age": 29,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -359,6 +410,7 @@
         "Gender": "Female",
         "Age": 73,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -366,6 +418,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 130744.33,
         "Expenses (USD)": 83566.867
     },
@@ -373,6 +426,7 @@
         "Gender": "Male",
         "Age": 32,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 120223.854,
         "Expenses (USD)": 77759.068
     },
@@ -380,6 +434,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -387,6 +442,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -394,6 +450,7 @@
         "Gender": "Male",
         "Age": 35,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 113806.679,
         "Expenses (USD)": 106875.9
     },
@@ -401,6 +458,7 @@
         "Gender": "Male",
         "Age": 39,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 52956.225,
         "Expenses (USD)": 152683.422
     },
@@ -408,6 +466,7 @@
         "Gender": "Male",
         "Age": 33,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 107654.484,
         "Expenses (USD)": 142794.821
     },
@@ -415,6 +474,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 109288.773,
         "Expenses (USD)": 178411.222
     },
@@ -422,6 +482,7 @@
         "Gender": "Male",
         "Age": 81,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -429,6 +490,7 @@
         "Gender": "Male",
         "Age": 54,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 31654.528,
         "Expenses (USD)": 51258.527
     },
@@ -436,6 +498,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 189762.758,
         "Expenses (USD)": 114767.919
     },
@@ -443,6 +506,7 @@
         "Gender": "Male",
         "Age": 28,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -450,6 +514,7 @@
         "Gender": "Male",
         "Age": 33,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 46929.492,
         "Expenses (USD)": 43006.831
     },
@@ -457,6 +522,7 @@
         "Gender": "Male",
         "Age": 47,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 124343.865,
         "Expenses (USD)": 40104.045
     },
@@ -464,6 +530,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 154342.336,
         "Expenses (USD)": 155434.508
     },
@@ -471,6 +538,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -478,6 +546,7 @@
         "Gender": "Male",
         "Age": 18,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -485,6 +554,7 @@
         "Gender": "Male",
         "Age": 39,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 117110.494,
         "Expenses (USD)": 59698.404
     },
@@ -492,6 +562,7 @@
         "Gender": "Male",
         "Age": 80,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 113170.587,
         "Expenses (USD)": 45679.394
     },
@@ -499,6 +570,7 @@
         "Gender": "Female",
         "Age": 36,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -506,6 +578,7 @@
         "Gender": "Male",
         "Age": 53,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -513,6 +586,7 @@
         "Gender": "Male",
         "Age": 69,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -520,6 +594,7 @@
         "Gender": "Male",
         "Age": 21,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 95233.372,
         "Expenses (USD)": 95976.554
     },
@@ -527,6 +602,7 @@
         "Gender": "Male",
         "Age": 36,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -534,6 +610,7 @@
         "Gender": "Male",
         "Age": 29,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 96636.632,
         "Expenses (USD)": 49258.383
     },
@@ -541,6 +618,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75660.937,
         "Expenses (USD)": 102765.291
     },
@@ -548,6 +626,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -555,6 +634,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 91612.774,
         "Expenses (USD)": 123069.22
     },
@@ -562,6 +642,7 @@
         "Gender": "Male",
         "Age": 78,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -569,6 +650,7 @@
         "Gender": "Male",
         "Age": 29,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 118866.084,
         "Expenses (USD)": 124948.802
     },
@@ -576,6 +658,7 @@
         "Gender": "Female",
         "Age": 52,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 105883.591,
         "Expenses (USD)": 58811.998
     },
@@ -583,6 +666,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 65765.091,
         "Expenses (USD)": 177236.761
     },
@@ -590,6 +674,7 @@
         "Gender": "Male",
         "Age": 29,
         "Children": 9,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -597,6 +682,7 @@
         "Gender": "Male",
         "Age": 36,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 54860.402,
         "Expenses (USD)": 78555.39
     },
@@ -604,6 +690,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 161418.422,
         "Expenses (USD)": 178767.121
     },
@@ -611,6 +698,7 @@
         "Gender": "Male",
         "Age": 28,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 159277.316,
         "Expenses (USD)": 90302.217
     },
@@ -618,6 +706,7 @@
         "Gender": "Male",
         "Age": 47,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 118752.847,
         "Expenses (USD)": 75637.037
     },
@@ -625,6 +714,7 @@
         "Gender": "Male",
         "Age": 31,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -632,6 +722,7 @@
         "Gender": "Male",
         "Age": 58,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -639,6 +730,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 68327.549,
         "Expenses (USD)": 163534.721
     },
@@ -646,6 +738,7 @@
         "Gender": "Male",
         "Age": 36,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -653,6 +746,7 @@
         "Gender": "Male",
         "Age": 43,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 63350.073,
         "Expenses (USD)": 171186.507
     },
@@ -660,6 +754,7 @@
         "Gender": "Male",
         "Age": 61,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -667,6 +762,7 @@
         "Gender": "Male",
         "Age": 73,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 81728.275,
         "Expenses (USD)": 161288.126
     },
@@ -674,6 +770,7 @@
         "Gender": "Male",
         "Age": 21,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 55106.531,
         "Expenses (USD)": 160776.521
     },
@@ -681,6 +778,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 118736.109,
         "Expenses (USD)": 84699.064
     },
@@ -688,6 +786,7 @@
         "Gender": "Male",
         "Age": 81,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -695,6 +794,7 @@
         "Gender": "Male",
         "Age": 67,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 59812.509,
         "Expenses (USD)": 100274.011
     },
@@ -702,6 +802,7 @@
         "Gender": "Male",
         "Age": 19,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -709,6 +810,7 @@
         "Gender": "Male",
         "Age": 46,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -716,6 +818,7 @@
         "Gender": "Male",
         "Age": 21,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 65765.091,
         "Expenses (USD)": 151971.631
     },
@@ -723,6 +826,7 @@
         "Gender": "Male",
         "Age": 58,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 58338.912,
         "Expenses (USD)": 80770.849
     },
@@ -730,6 +834,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 62455.049,
         "Expenses (USD)": 195343.025
     },
@@ -737,6 +842,7 @@
         "Gender": "Male",
         "Age": 30,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 76410.488,
         "Expenses (USD)": 85931.356
     },
@@ -744,6 +850,7 @@
         "Gender": "Male",
         "Age": 28,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 85327.852,
         "Expenses (USD)": 133127.761
     },
@@ -751,6 +858,7 @@
         "Gender": "Male",
         "Age": 39,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -758,6 +866,7 @@
         "Gender": "Male",
         "Age": 30,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 70249.395,
         "Expenses (USD)": 141034.904
     },
@@ -765,6 +874,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 146404.972,
         "Expenses (USD)": 62967.095
     },
@@ -772,6 +882,7 @@
         "Gender": "Male",
         "Age": 30,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 63731.139,
         "Expenses (USD)": 61685.865
     },
@@ -779,6 +890,7 @@
         "Gender": "Male",
         "Age": 29,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -786,6 +898,7 @@
         "Gender": "Male",
         "Age": 40,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 65818.778,
         "Expenses (USD)": 148337.472
     },
@@ -793,6 +906,7 @@
         "Gender": "Male",
         "Age": 20,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 102219.359,
         "Expenses (USD)": 135919.779
     },
@@ -800,6 +914,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -807,6 +922,7 @@
         "Gender": "Male",
         "Age": 61,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -814,6 +930,7 @@
         "Gender": "Male",
         "Age": 31,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -821,6 +938,7 @@
         "Gender": "Male",
         "Age": 31,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 50691.302,
         "Expenses (USD)": 47645.726
     },
@@ -828,6 +946,7 @@
         "Gender": "Male",
         "Age": 49,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -835,6 +954,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 51133.451,
         "Expenses (USD)": 196824.442
     },
@@ -842,6 +962,7 @@
         "Gender": "Male",
         "Age": 87,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 127365.189,
         "Expenses (USD)": 149120.888
     },
@@ -849,6 +970,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 121979.042,
         "Expenses (USD)": 92868.012
     },
@@ -856,6 +978,7 @@
         "Gender": "Male",
         "Age": 38,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 81198.954,
         "Expenses (USD)": 123140.402
     },
@@ -863,6 +986,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 83120.799,
         "Expenses (USD)": 88661.088
     },
@@ -870,6 +994,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 124391.911,
         "Expenses (USD)": 136184.03
     },
@@ -877,6 +1002,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 114729.161,
         "Expenses (USD)": 131059.111
     },
@@ -884,6 +1010,7 @@
         "Gender": "Female",
         "Age": 41,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -891,6 +1018,7 @@
         "Gender": "Male",
         "Age": 34,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 116506.614,
         "Expenses (USD)": 92355.3
     },
@@ -898,6 +1026,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 97339.783,
         "Expenses (USD)": 161221.389
     },
@@ -905,6 +1034,7 @@
         "Gender": "Male",
         "Age": 43,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 69804.375,
         "Expenses (USD)": 63750.071
     },
@@ -912,6 +1042,7 @@
         "Gender": "Male",
         "Age": 35,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 70628.812,
         "Expenses (USD)": 89214.503
     },
@@ -919,6 +1050,7 @@
         "Gender": "Male",
         "Age": 52,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 102314.755,
         "Expenses (USD)": 28786.738
     },
@@ -926,6 +1058,7 @@
         "Gender": "Male",
         "Age": 17,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -933,6 +1066,7 @@
         "Gender": "Female",
         "Age": 22,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -940,6 +1074,7 @@
         "Gender": "Male",
         "Age": 50,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 157339.643,
         "Expenses (USD)": 79003.819
     },
@@ -947,6 +1082,7 @@
         "Gender": "Male",
         "Age": 32,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 192598.198,
         "Expenses (USD)": 69350.999
     },
@@ -954,6 +1090,7 @@
         "Gender": "Male",
         "Age": 42,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 67160.08,
         "Expenses (USD)": 62651.238
     },
@@ -961,6 +1098,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 128868.206,
         "Expenses (USD)": 202861.35
     },
@@ -968,6 +1106,7 @@
         "Gender": "Male",
         "Age": 81,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 66026.289,
         "Expenses (USD)": 78475.314
     },
@@ -975,6 +1114,7 @@
         "Gender": "Male",
         "Age": 42,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -982,6 +1122,7 @@
         "Gender": "Male",
         "Age": 18,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 122742.327,
         "Expenses (USD)": 113655.744
     },
@@ -989,6 +1130,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 59594.731,
         "Expenses (USD)": 62032.865
     },
@@ -996,6 +1138,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 97951.54,
         "Expenses (USD)": 70067.242
     },
@@ -1003,6 +1146,7 @@
         "Gender": "Male",
         "Age": 29,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 88827.222,
         "Expenses (USD)": 158872.47
     },
@@ -1010,6 +1154,7 @@
         "Gender": "Male",
         "Age": 41,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 76591.658,
         "Expenses (USD)": 77235.011
     },
@@ -1017,6 +1162,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 55479.343,
         "Expenses (USD)": 105413.165
     },
@@ -1024,6 +1170,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 57179.328,
         "Expenses (USD)": 158525.473
     },
@@ -1031,6 +1178,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 62321.786,
         "Expenses (USD)": 131788.702
     },
@@ -1038,6 +1186,7 @@
         "Gender": "Male",
         "Age": 31,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1045,6 +1194,7 @@
         "Gender": "Male",
         "Age": 51,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1052,6 +1202,7 @@
         "Gender": "Male",
         "Age": 37,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 63574.288,
         "Expenses (USD)": 201259.812
     },
@@ -1059,6 +1210,7 @@
         "Gender": "Male",
         "Age": 43,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 133248.907,
         "Expenses (USD)": 96368.037
     },
@@ -1066,6 +1218,7 @@
         "Gender": "Male",
         "Age": 17,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1073,6 +1226,7 @@
         "Gender": "Male",
         "Age": 49,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 59242.257,
         "Expenses (USD)": 59094.492
     },
@@ -1080,6 +1234,7 @@
         "Gender": "Male",
         "Age": 61,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1087,6 +1242,7 @@
         "Gender": "Male",
         "Age": 31,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 104909.958,
         "Expenses (USD)": 73297.009
     },
@@ -1094,6 +1250,7 @@
         "Gender": "Male",
         "Age": 37,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 137931.521,
         "Expenses (USD)": 93545.332
     },
@@ -1101,6 +1258,7 @@
         "Gender": "Male",
         "Age": 31,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1108,6 +1266,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 123463.02,
         "Expenses (USD)": 60030.943
     },
@@ -1115,6 +1274,7 @@
         "Gender": "Male",
         "Age": 35,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 73548.687,
         "Expenses (USD)": 172798.723
     },
@@ -1122,6 +1282,7 @@
         "Gender": "Male",
         "Age": 21,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 178742.624,
         "Expenses (USD)": 151202.887
     },
@@ -1129,6 +1290,7 @@
         "Gender": "Male",
         "Age": 55,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1136,6 +1298,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1143,6 +1306,7 @@
         "Gender": "Male",
         "Age": 28,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 113848.349,
         "Expenses (USD)": 101288.315
     },
@@ -1150,6 +1314,7 @@
         "Gender": "Male",
         "Age": 56,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 67041.369,
         "Expenses (USD)": 43641.883
     },
@@ -1157,6 +1322,7 @@
         "Gender": "Male",
         "Age": 53,
         "Children": 6,
+        "Depressed": 1,
         "Assets (USD)": 36471.915,
         "Expenses (USD)": 37013.301
     },
@@ -1164,6 +1330,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1171,6 +1338,7 @@
         "Gender": "Male",
         "Age": 52,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 113543.115,
         "Expenses (USD)": 193074.184
     },
@@ -1178,6 +1346,7 @@
         "Gender": "Male",
         "Age": 49,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1185,6 +1354,7 @@
         "Gender": "Male",
         "Age": 42,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1192,6 +1362,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 148404.396,
         "Expenses (USD)": 202247.425
     },
@@ -1199,6 +1370,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 53609.425,
         "Expenses (USD)": 62943.962
     },
@@ -1206,6 +1378,7 @@
         "Gender": "Male",
         "Age": 36,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 132904.156,
         "Expenses (USD)": 68821.605
     },
@@ -1213,6 +1386,7 @@
         "Gender": "Male",
         "Age": 31,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 91152.507,
         "Expenses (USD)": 177461.417
     },
@@ -1220,6 +1394,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 131410.565,
         "Expenses (USD)": 143915.897
     },
@@ -1227,6 +1402,7 @@
         "Gender": "Male",
         "Age": 62,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 51707.154,
         "Expenses (USD)": 139066.794
     },
@@ -1234,6 +1410,7 @@
         "Gender": "Male",
         "Age": 29,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 170134.487,
         "Expenses (USD)": 115043.739
     },
@@ -1241,6 +1418,7 @@
         "Gender": "Male",
         "Age": 36,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 111332.246,
         "Expenses (USD)": 100158.346
     },
@@ -1248,6 +1426,7 @@
         "Gender": "Male",
         "Age": 33,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 107485.88,
         "Expenses (USD)": 126557.011
     },
@@ -1255,6 +1434,7 @@
         "Gender": "Male",
         "Age": 65,
         "Children": 1,
+        "Depressed": 1,
         "Assets (USD)": 135592.102,
         "Expenses (USD)": 60146.611
     },
@@ -1262,6 +1442,7 @@
         "Gender": "Male",
         "Age": 32,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 48683.295,
         "Expenses (USD)": 62637.891
     },
@@ -1269,6 +1450,7 @@
         "Gender": "Male",
         "Age": 30,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 85944.458,
         "Expenses (USD)": 143284.175
     },
@@ -1276,6 +1458,7 @@
         "Gender": "Male",
         "Age": 39,
         "Children": 8,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1283,6 +1466,7 @@
         "Gender": "Female",
         "Age": 52,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1290,6 +1474,7 @@
         "Gender": "Male",
         "Age": 80,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 108648.802,
         "Expenses (USD)": 104989.645
     },
@@ -1297,6 +1482,7 @@
         "Gender": "Female",
         "Age": 39,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 50880.317,
         "Expenses (USD)": 21540.673
     },
@@ -1304,6 +1490,7 @@
         "Gender": "Male",
         "Age": 33,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 77189.377,
         "Expenses (USD)": 110817.471
     },
@@ -1311,6 +1498,7 @@
         "Gender": "Male",
         "Age": 34,
         "Children": 7,
+        "Depressed": 1,
         "Assets (USD)": 185984.899,
         "Expenses (USD)": 79449.58
     },
@@ -1318,6 +1506,7 @@
         "Gender": "Male",
         "Age": 66,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1325,6 +1514,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1332,6 +1522,7 @@
         "Gender": "Male",
         "Age": 35,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 78066.688,
         "Expenses (USD)": 167414.896
     },
@@ -1339,6 +1530,7 @@
         "Gender": "Male",
         "Age": 36,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1346,6 +1538,7 @@
         "Gender": "Male",
         "Age": 39,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 90107.622,
         "Expenses (USD)": 108604.311
     },
@@ -1353,6 +1546,7 @@
         "Gender": "Male",
         "Age": 67,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 81442.734,
         "Expenses (USD)": 151345.245
     },
@@ -1360,6 +1554,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1367,6 +1562,7 @@
         "Gender": "Male",
         "Age": 31,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 108685.448,
         "Expenses (USD)": 121209.653
     },
@@ -1374,6 +1570,7 @@
         "Gender": "Male",
         "Age": 67,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 92360.258,
         "Expenses (USD)": 149138.68
     },
@@ -1381,6 +1578,7 @@
         "Gender": "Male",
         "Age": 38,
         "Children": 11,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1388,6 +1586,7 @@
         "Gender": "Male",
         "Age": 73,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 127555.368,
         "Expenses (USD)": 67622.675
     },
@@ -1395,6 +1594,7 @@
         "Gender": "Male",
         "Age": 20,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 112088.525,
         "Expenses (USD)": 92106.173
     },
@@ -1402,6 +1602,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1409,6 +1610,7 @@
         "Gender": "Male",
         "Age": 50,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1416,6 +1618,7 @@
         "Gender": "Male",
         "Age": 20,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 130861.203,
         "Expenses (USD)": 118976.404
     },
@@ -1423,6 +1626,7 @@
         "Gender": "Male",
         "Age": 32,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 132373.704,
         "Expenses (USD)": 44153.486
     },
@@ -1430,6 +1634,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 46422.456,
         "Expenses (USD)": 93218.356
     },
@@ -1437,6 +1642,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1444,6 +1650,7 @@
         "Gender": "Male",
         "Age": 34,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 69102.51,
         "Expenses (USD)": 30518.177
     },
@@ -1451,6 +1658,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 131410.883,
         "Expenses (USD)": 54666.019
     },
@@ -1458,6 +1666,7 @@
         "Gender": "Male",
         "Age": 27,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1465,6 +1674,7 @@
         "Gender": "Male",
         "Age": 35,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 25825.933,
         "Expenses (USD)": 65720.849
     },
@@ -1472,6 +1682,7 @@
         "Gender": "Male",
         "Age": 38,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 185110.422,
         "Expenses (USD)": 161704.081
     },
@@ -1479,6 +1690,7 @@
         "Gender": "Male",
         "Age": 52,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 81119.92,
         "Expenses (USD)": 135209.875
     },
@@ -1486,6 +1698,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 62641.641,
         "Expenses (USD)": 122094.955
     },
@@ -1493,6 +1706,7 @@
         "Gender": "Male",
         "Age": 23,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1500,6 +1714,7 @@
         "Gender": "Male",
         "Age": 26,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 105476.615,
         "Expenses (USD)": 215629.161
     },
@@ -1507,6 +1722,7 @@
         "Gender": "Male",
         "Age": 42,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 86936.936,
         "Expenses (USD)": 111575.97
     },
@@ -1514,6 +1730,7 @@
         "Gender": "Male",
         "Age": 41,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1521,6 +1738,7 @@
         "Gender": "Male",
         "Age": 26,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 129301.607,
         "Expenses (USD)": 107986.743
     },
@@ -1528,6 +1746,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 63044.882,
         "Expenses (USD)": 141597.269
     },
@@ -1535,6 +1754,7 @@
         "Gender": "Male",
         "Age": 53,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 71710.724,
         "Expenses (USD)": 57557.459
     },
@@ -1542,6 +1762,7 @@
         "Gender": "Female",
         "Age": 71,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 152848.405,
         "Expenses (USD)": 68065.325
     },
@@ -1549,6 +1770,7 @@
         "Gender": "Male",
         "Age": 25,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 138641.625,
         "Expenses (USD)": 98547.909
     },
@@ -1556,6 +1778,7 @@
         "Gender": "Male",
         "Age": 40,
         "Children": 8,
+        "Depressed": 1,
         "Assets (USD)": 51408.898,
         "Expenses (USD)": 196464.095
     },
@@ -1563,6 +1786,7 @@
         "Gender": "Male",
         "Age": 63,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 73938.388,
         "Expenses (USD)": 163890.614
     },
@@ -1570,6 +1794,7 @@
         "Gender": "Female",
         "Age": 31,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1577,6 +1802,7 @@
         "Gender": "Female",
         "Age": 70,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 133491.926,
         "Expenses (USD)": 64372.89
     },
@@ -1584,6 +1810,7 @@
         "Gender": "Male",
         "Age": 77,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 61892.422,
         "Expenses (USD)": 100229.524
     },
@@ -1591,6 +1818,7 @@
         "Gender": "Male",
         "Age": 24,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 128766.43,
         "Expenses (USD)": 60404.638
     },
@@ -1598,6 +1826,7 @@
         "Gender": "Male",
         "Age": 49,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 74433.5,
         "Expenses (USD)": 77007.347
     },
@@ -1605,6 +1834,7 @@
         "Gender": "Male",
         "Age": 22,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 44662.482,
         "Expenses (USD)": 24585.817
     },
@@ -1612,6 +1842,7 @@
         "Gender": "Male",
         "Age": 60,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 113964.609,
         "Expenses (USD)": 140579.358
     },
@@ -1619,6 +1850,7 @@
         "Gender": "Male",
         "Age": 51,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 52415.827,
         "Expenses (USD)": 28511.809
     },
@@ -1626,6 +1858,7 @@
         "Gender": "Male",
         "Age": 30,
         "Children": 5,
+        "Depressed": 1,
         "Assets (USD)": 75107.89,
         "Expenses (USD)": 147252.427
     },
@@ -1633,6 +1866,7 @@
         "Gender": "Male",
         "Age": 28,
         "Children": 4,
+        "Depressed": 1,
         "Assets (USD)": 67606.293,
         "Expenses (USD)": 185662.627
     },
@@ -1640,6 +1874,7 @@
         "Gender": "Male",
         "Age": 49,
         "Children": 2,
+        "Depressed": 1,
         "Assets (USD)": 37429.81,
         "Expenses (USD)": 79491.401
     },
@@ -1647,6 +1882,7 @@
         "Gender": "Male",
         "Age": 59,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1654,6 +1890,7 @@
         "Gender": "Male",
         "Age": 34,
         "Children": 3,
+        "Depressed": 1,
         "Assets (USD)": 75174.12,
         "Expenses (USD)": 86258.781
     },
@@ -1661,6 +1898,7 @@
         "Gender": "Male",
         "Age": 66,
         "Children": 0,
+        "Depressed": 1,
         "Assets (USD)": 87865.276,
         "Expenses (USD)": 79534.107
     }

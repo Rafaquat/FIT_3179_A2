@@ -1,23 +1,26 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-
     "width": 800,
     "height": 200,
     "data": {
         "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/isotypeData/istotype.json"
     },
+
     "transform": [{
             "calculate": "{'gdp': '💰', 'social':'🤝🏻', 'life': '🧬', 'freedom': '✊', 'generosity':'👍', 'corruption':'📛'}[datum.Symbol]",
             "as": "emoji"
         },
         { "window": [{ "op": "rank", "as": "rank" }], "groupby": ["Country", "Symbol"] }
     ],
+
     "mark": { "type": "text", "baseline": "middle" },
+
     "encoding": {
-        "x": { "field": "rank", "type": "ordinal", "axis": null },
-        "y": { "field": "Symbol", "type": "nominal", "axis": null, "sort": null },
+        "x": { "field": "rank", "type": "ordinal" },
+        "y": { "field": "Symbol", "type": "nominal", "sort": null },
         "row": { "field": "Country", "header": { "title": "" } },
         "text": { "field": "emoji", "type": "nominal" },
         "size": { "value": 30 }
     }
+
 }

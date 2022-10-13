@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Though Vega-Lite supports only one scale per axes, one can create a parallel coordinate plot by folding variables, using `joinaggregate` to normalize their values and using ticks and rules to manually create axes.",
+    "title": "Assets and Liabilities vs Depression",
     "data": {
         "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/parallelCoordData/parallelCoordData.json"
     },

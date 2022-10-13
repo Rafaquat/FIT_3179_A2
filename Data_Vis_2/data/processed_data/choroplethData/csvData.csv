@@ -1,4 +1,4 @@
-﻿country,prevalence,cases,pop2022
+﻿country,prevalence,cases,population
 Ukraine,6.3,2800587,39701.739
 United States of America,5.9,17491047,338289.857
 Australia,5.9,1318599,26177.413
@@ -67,7 +67,7 @@ Colombia,4.7,2177280,51874.024
 Argentina,4.7,1914354,45510.318
 Canada,4.7,1566903,38454.327
 Netherlands,4.7,752777,17564.014
-Dominican Republic,4.7,464164,11228.821
+Dominican Rep.,4.7,464164,11228.821
 Lebanon,4.7,255280,5489.739
 Norway,4.7,227446,5434.319
 Costa Rica,4.7,216608,5180.829
@@ -112,9 +112,9 @@ Venezuela,4.2,1270099,28301.696
 Burundi,4.2,448822,12889.576
 Nicaragua,4.2,238161,6948.392
 Turkmenistan,4.2,214010,6430.77
-Central African Republic,4.2,202081,5579.144
+Central African Rep.,4.2,202081,5579.144
 Mongolia,4.2,117436,3398.366
-Equatorial Guinea,4.2,34909,1674.908
+Eq. Guinea,4.2,34909,1674.908
 Eswatini,4.2,53223,1201.67
 Bhutan,4.2,30947,782.455
 Bangladesh,4.1,6391760,171186.372

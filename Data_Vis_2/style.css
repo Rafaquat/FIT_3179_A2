@@ -12,3 +12,7 @@
 .groupByTwo {
     display: flex;
 }
+
+.titleHeader {
+    font-family: 'Trebuchet MS', sans-serif;
+}

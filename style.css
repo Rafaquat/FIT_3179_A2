@@ -1,3 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+hr {
+    border-width: 1px;
+    border-style: inset;
+}
+
 .container {
     width: 100%;
     height: 100%;
@@ -6,7 +25,6 @@
 }
 
 .map-container {
-    margin: auto;
     padding: 10px;
 }
 

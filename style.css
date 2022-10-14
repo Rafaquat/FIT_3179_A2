@@ -15,6 +15,7 @@ body {
 hr {
     border-width: 1px;
     border-style: inset;
+    padding: 30px;
 }
 
 .container {

@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Distribution of depression cases by academic level",
+    "title": { "text": "Depression in Academia", "fontSize": 21 },
     "width": 600,
     "height": 500,
     "padding": 5,

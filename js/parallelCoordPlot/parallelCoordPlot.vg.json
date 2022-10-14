@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Assets and Liabilities vs Depression",
+    "title": { "text": "Assets and Liabilities vs Depression", "fontSize": 21 },
     "data": {
         "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/parallelCoordData/parallelCoordData.json"
     },

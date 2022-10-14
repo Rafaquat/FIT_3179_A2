@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Common Depression Traits",
+    "title": { "text": "Depression Traits", "fontSize": 21 },
     "width": 400,
     "height": 300,
     "background": "azure",

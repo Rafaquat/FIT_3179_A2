@@ -1,7 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
+    "width": 900,
     "height": 200,
+    "background": "azure",
     "data": {
         "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/isotypeData/istotype.json"
     },
@@ -20,7 +21,7 @@
         "y": { "field": "Symbol", "type": "nominal", "sort": null },
         "row": { "field": "Country", "header": { "title": "" } },
         "text": { "field": "emoji", "type": "nominal" },
-        "size": { "value": 30 }
+        "size": { "value": 25 }
     }
 
 }

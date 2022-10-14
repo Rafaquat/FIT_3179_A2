@@ -2,6 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 400,
     "height": 300,
+    "background": "azure",
     "title": { "text": "Suicide Rates due to Depression By Age" },
     "data": {
         "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/stackedBarChartData/Deperession_cases_by_age.csv"

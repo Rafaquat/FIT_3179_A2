@@ -4,8 +4,10 @@
     "data": {
         "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/parallelCoordData/parallelCoordData.json"
     },
-    "width": 900,
+    "width": 800,
     "height": 600,
+    "padding": 5,
+    "background": "azure",
     "transform": [
         { "filter": "datum['Depressed']==1" },
         { "window": [{ "op": "count", "as": "index" }] },
@@ -22,6 +24,7 @@
             "as": "norm_val"
         },
         { "calculate": "(datum.min + datum.max) / 2", "as": "mid" }
+
     ],
     "layer": [{
             "mark": { "type": "rule", "color": "#ccc" },
@@ -30,7 +33,19 @@
         {
             "mark": "line",
             "encoding": {
-                "color": { "type": "nominal", "field": "Gender" },
+                "color": {
+                    "type": "nominal",
+                    "field": "Gender",
+                    "scale": {
+                        "range": ["#01484c", "#994F00"]
+                    },
+                    "legend": {
+                        "direction": "horizontal",
+                        "orient": "bottom",
+                        "labelFontSize": 15
+                    }
+                },
+
                 "detail": { "type": "nominal", "field": "index" },
                 "opacity": { "value": 0.3 },
                 "x": { "type": "nominal", "field": "key" },

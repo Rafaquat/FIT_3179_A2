@@ -3,6 +3,7 @@
     "title": "Common Depression Traits",
     "width": 400,
     "height": 300,
+    "background": "azure",
     "data": {
         "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/bubbleChartData/Common_Depression_Traits.csv"
     },

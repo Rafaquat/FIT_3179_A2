@@ -4,6 +4,7 @@
     "width": 600,
     "height": 500,
     "padding": 5,
+    "background": "azure",
     "data": {
         "url": "https://raw.githubusercontent.com/Rafaquat/FIT_3179_A2/main/Data_Vis_2/data/processed_data/radialChartData/Deperession_cases_by_education.csv"
     },

@@ -15,14 +15,13 @@ body {
 hr {
     border-width: 1px;
     border-style: inset;
-    padding: 30px;
+    margin: 30px;
 }
 
 .container {
     width: 100%;
     height: 100%;
     background-color: azure;
-    margin: auto;
 }
 
 .map-container {
@@ -47,6 +46,7 @@ hr {
 .contentText {
     font-family: 'Trebuchet MS', sans-serif;
     text-align: left;
+    width: 85%;
 }
 
 .subHeaderText {
